@@ -23,5 +23,7 @@ public class Main {
         remote.clickRedoButton(light);
         remote.clickRedoButton(light);
         remote.clickRedoButton(light);
+        remote.clickRedoButton(light);
+        remote.clickRedoButton(light);
     }
 }
